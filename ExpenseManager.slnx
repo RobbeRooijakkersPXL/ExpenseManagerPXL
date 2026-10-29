@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="ExpenseManager.Domain/ExpenseManager.Domain.csproj" />
+    <Project Path="ExpenseManager.Infrastructure/ExpenseManager.Infrastructure.csproj" />
+    <Project Path="ExpenseManager.Application/ExpenseManager.Application.csproj" />
+    <Project Path="ExpenseManager.Presentation/ExpenseManager.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="ExpenseManager.Domain.Tests/ExpenseManager.Domain.Tests.csproj" />
+    <Project Path="ExpenseManager.Application.Tests/ExpenseManager.Application.Tests.csproj" />
+  </Folder>
+</Solution>
